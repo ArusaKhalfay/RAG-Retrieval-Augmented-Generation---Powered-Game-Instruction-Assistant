@@ -1,5 +1,5 @@
 # RAG-Powered-Game-Instruction-Assistant
----
+This project demonstrates the implementation of Retrieval-Augmented Generation (RAG) using Langchain and Chroma DB, specifically utilizing game instruction documents from the popular board game Monopoly. The aim is to create an AI-driven application that can interact with large volumes of text data, making it useful for scenarios such as building a customer support chatbot or querying extensive text datasets.
 
 ## Steps to Implement RAG (Retrieval-Augmented Generation)
 
