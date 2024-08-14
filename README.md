@@ -1,1 +1,2 @@
-# RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant
+# RAG-Powered-Game-Instruction-Assistant
+
