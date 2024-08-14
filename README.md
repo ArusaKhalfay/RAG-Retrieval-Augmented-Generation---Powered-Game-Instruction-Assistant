@@ -1,7 +1,4 @@
 # RAG-Powered-Game-Instruction-Assistant
-
-Here are the high-level steps for your GitHub README file based on the "Rag Implementation – Proof of Concept" document:
-
 ---
 
 ## Steps to Implement RAG (Retrieval-Augmented Generation)
@@ -30,11 +27,3 @@ Here are the high-level steps for your GitHub README file based on the "Rag Impl
      ```bash
      python query_data.py "Enter your prompt here"
      ```
-
-### References and Resources
-- Python RAG Tutorial (with Local LLMs): AI For Your PDFs
-- RAG + Langchain Python Project: Easy AI/Chat For Your Docs
-
---- 
-
-These steps should provide a clear and concise overview for your GitHub README file.
